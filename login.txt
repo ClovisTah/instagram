@@ -1,4 +1,3 @@
 login with email and pass word
-loggin with mobile number one time password
-login with facial recognition
-login with fingerprint
+loggin with mobile number one time pass word 
+login with fingerprint .. fixing finger print bug issues
